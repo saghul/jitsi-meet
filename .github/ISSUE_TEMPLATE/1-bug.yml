@@ -48,7 +48,7 @@ body:
       label: Reproducibility
       description: Does the problem reproduce on meet.jit.si using Chrome, Firefox or the official mobile apps?
       options:
-        - label: Yes it does
+        - label: The problem is reproducible on meet.jit.si
   - type: textarea
     attributes:
       label: More details?
