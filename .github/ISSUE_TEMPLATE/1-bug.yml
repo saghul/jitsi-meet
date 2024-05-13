@@ -6,9 +6,9 @@ body:
       value: |
         This issue tracker is only for reporting bugs and tracking issues related to the source code.
 
-        Before posting, please make sure to check if the same or similar bugs have already been reported.
+        **Before posting, please make sure to check if the same or similar bugs have already been reported.**
 
-        General questions regarding usage, installation, etc. should be posted in our [community forum](https://community.jitsi.org).
+        ⚠️ General questions regarding usage, installation, etc. should be posted in our [community forum](https://community.jitsi.org).
   - type: textarea
     attributes:
       label: What happened?
