@@ -20,16 +20,16 @@ body:
       label: Platform
       description: On what platforms can you reproduce the problem?
       options:
-        - Chrome (or Chromium based)
-        - Firefox
-        - Safari
-        - Other desktop browser
-        - Android browser
-        - iOS browser
-        - Electron app
-        - Android mobile app
-        - iOS mobile app
-        - Custom app using a mobile SDK
+        - label: Chrome (or Chromium based)
+        - label: Firefox
+        - label: Safari
+        - label: Other desktop browser
+        - label: Android browser
+        - label: iOS browser
+        - label: Electron app
+        - label: Android mobile app
+        - label: iOS mobile app
+        - label: Custom app using a mobile SDK
     validations:
       required: true
   - type: input
